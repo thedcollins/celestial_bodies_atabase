@@ -114,10 +114,6 @@ To get started with this project:
 - Writing SQL queries to interact with and manage the database.
 - Understanding relationships between different astronomical entities and how they are represented in a database.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
